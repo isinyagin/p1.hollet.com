@@ -1,9 +1,12 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
+
 <head>
-    <title> CSCI 15 Project 1 <title>
+    <title> CSCI 15 Project 1 </title>
 </head>
+
 <body>
 <?php echo "CSCI 15 Project 1" ?>
 </body>
+
 </html>
