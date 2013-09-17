@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>CS15 Project 1 -- Info</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/hollet_styles.css" rel="stylesheet" media="screen">
